@@ -25,10 +25,10 @@
     };
 
     const categoryColors = {
-        'TY': 'rgb(101, 47, 47)',      // dark oxblood - most intense
-        'HF': 'rgb(180, 90, 60)',      // burnt sienna
-        'DHF': 'rgb(194, 154, 96)',    // warm tan
-        'S': 'rgb(140, 160, 140)'      // muted sage green - least intense
+        'TY': 'rgb(101, 47, 47)',      // dark red - most intense
+        'HF': 'rgb(180, 90, 60)',      // dark orange
+        'DHF': 'rgb(194, 154, 96)',    // dark yellow
+        'S': 'rgb(140, 160, 140)'      // dark sage green - least intense
     };
 
     // create the legend
