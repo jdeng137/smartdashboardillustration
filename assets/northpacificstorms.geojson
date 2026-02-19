@@ -1,0 +1,1093 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            148.5,
+            37.0
+          ]
+        },
+        "properties": {
+          "category": "DHF",
+          "pressure": 982,
+          "date": "2022061212",
+          "id": "2022202301"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            150.3,
+            38.2
+          ]
+        },
+        "properties": {
+          "category": "HF",
+          "pressure": 973,
+          "date": "2022061218",
+          "id": "2022202301"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            152.1,
+            38.8
+          ]
+        },
+        "properties": {
+          "category": "HF",
+          "pressure": 972,
+          "date": "2022061300",
+          "id": "2022202301"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            154.0,
+            39.0
+          ]
+        },
+        "properties": {
+          "category": "S",
+          "pressure": 976,
+          "date": "2022061306",
+          "id": "2022202301"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            164.5,
+            36.8
+          ]
+        },
+        "properties": {
+          "category": "TY",
+          "pressure": 968,
+          "date": "2022091500",
+          "id": "2022202302"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            166.3,
+            40.6
+          ]
+        },
+        "properties": {
+          "category": "HF",
+          "pressure": 964,
+          "date": "2022091506",
+          "id": "2022202302"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            167.4,
+            44.9
+          ]
+        },
+        "properties": {
+          "category": "HF",
+          "pressure": 960,
+          "date": "2022091512",
+          "id": "2022202302"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            170.5,
+            47.7
+          ]
+        },
+        "properties": {
+          "category": "HF",
+          "pressure": 953,
+          "date": "2022091518",
+          "id": "2022202302"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            173.7,
+            51.5
+          ]
+        },
+        "properties": {
+          "category": "HF",
+          "pressure": 948,
+          "date": "2022091600",
+          "id": "2022202302"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            176.2,
+            55.4
+          ]
+        },
+        "properties": {
+          "category": "HF",
+          "pressure": 948,
+          "date": "2022091606",
+          "id": "2022202302"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            176.8,
+            56.6
+          ]
+        },
+        "properties": {
+          "category": "HF",
+          "pressure": 937,
+          "date": "2022091612",
+          "id": "2022202302"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -178.1,
+            58.8
+          ]
+        },
+        "properties": {
+          "category": "HF",
+          "pressure": 940,
+          "date": "2022091618",
+          "id": "2022202302"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -175.0,
+            61.2
+          ]
+        },
+        "properties": {
+          "category": "HF",
+          "pressure": 944,
+          "date": "2022091700",
+          "id": "2022202302"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -172.6,
+            62.9
+          ]
+        },
+        "properties": {
+          "category": "HF",
+          "pressure": 950,
+          "date": "2022091706",
+          "id": "2022202302"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -170.3,
+            64.5
+          ]
+        },
+        "properties": {
+          "category": "S",
+          "pressure": 955,
+          "date": "2022091712",
+          "id": "2022202302"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            153.2,
+            37.7
+          ]
+        },
+        "properties": {
+          "category": "TY",
+          "pressure": 971,
+          "date": "2022092818",
+          "id": "2022202303"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            155.7,
+            38.9
+          ]
+        },
+        "properties": {
+          "category": "HF",
+          "pressure": 960,
+          "date": "2022092900",
+          "id": "2022202303"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            159.3,
+            41.7
+          ]
+        },
+        "properties": {
+          "category": "HF",
+          "pressure": 956,
+          "date": "2022092906",
+          "id": "2022202303"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            162.6,
+            44.6
+          ]
+        },
+        "properties": {
+          "category": "HF",
+          "pressure": 956,
+          "date": "2022092912",
+          "id": "2022202303"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            167.1,
+            48.2
+          ]
+        },
+        "properties": {
+          "category": "HF",
+          "pressure": 956,
+          "date": "2022092918",
+          "id": "2022202303"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            170.3,
+            52.4
+          ]
+        },
+        "properties": {
+          "category": "HF",
+          "pressure": 948,
+          "date": "2022093000",
+          "id": "2022202303"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            171.1,
+            54.8
+          ]
+        },
+        "properties": {
+          "category": "HF",
+          "pressure": 943,
+          "date": "2022093006",
+          "id": "2022202303"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            174.7,
+            55.3
+          ]
+        },
+        "properties": {
+          "category": "HF",
+          "pressure": 944,
+          "date": "2022093012",
+          "id": "2022202303"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            177.3,
+            56.7
+          ]
+        },
+        "properties": {
+          "category": "HF",
+          "pressure": 952,
+          "date": "2022093018",
+          "id": "2022202303"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            178.9,
+            57.4
+          ]
+        },
+        "properties": {
+          "category": "S",
+          "pressure": 955,
+          "date": "2022100100",
+          "id": "2022202303"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -149.9,
+            49.5
+          ]
+        },
+        "properties": {
+          "category": "DHF",
+          "pressure": 966,
+          "date": "2022101806",
+          "id": "2022202304"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -148.6,
+            50.7
+          ]
+        },
+        "properties": {
+          "category": "HF",
+          "pressure": 961,
+          "date": "2022101812",
+          "id": "2022202304"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -145.8,
+            53.4
+          ]
+        },
+        "properties": {
+          "category": "HF",
+          "pressure": 961,
+          "date": "2022101818",
+          "id": "2022202304"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -145.6,
+            55.1
+          ]
+        },
+        "properties": {
+          "category": "HF",
+          "pressure": 962,
+          "date": "2022101900",
+          "id": "2022202304"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -144.1,
+            56.6
+          ]
+        },
+        "properties": {
+          "category": "S",
+          "pressure": 968,
+          "date": "2022101906",
+          "id": "2022202304"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -178.4,
+            54.6
+          ]
+        },
+        "properties": {
+          "category": "DHF",
+          "pressure": 972,
+          "date": "2022102812",
+          "id": "2022202305"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -173.2,
+            54.8
+          ]
+        },
+        "properties": {
+          "category": "HF",
+          "pressure": 960,
+          "date": "2022102818",
+          "id": "2022202305"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -166.6,
+            54.7
+          ]
+        },
+        "properties": {
+          "category": "HF",
+          "pressure": 960,
+          "date": "2022102900",
+          "id": "2022202305"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -158.7,
+            55.2
+          ]
+        },
+        "properties": {
+          "category": "HF",
+          "pressure": 964,
+          "date": "2022102906",
+          "id": "2022202305"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -152.4,
+            56.4
+          ]
+        },
+        "properties": {
+          "category": "S",
+          "pressure": 964,
+          "date": "2022102912",
+          "id": "2022202305"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            164.6,
+            42.3
+          ]
+        },
+        "properties": {
+          "category": "DHF",
+          "pressure": 980,
+          "date": "2022110906",
+          "id": "2022202306"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            168.4,
+            44.6
+          ]
+        },
+        "properties": {
+          "category": "HF",
+          "pressure": 974,
+          "date": "2022110912",
+          "id": "2022202306"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            172.1,
+            46.3
+          ]
+        },
+        "properties": {
+          "category": "HF",
+          "pressure": 970,
+          "date": "2022110918",
+          "id": "2022202306"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            175.4,
+            47.8
+          ]
+        },
+        "properties": {
+          "category": "S",
+          "pressure": 966,
+          "date": "2022111000",
+          "id": "2022202306"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            154.4,
+            38.7
+          ]
+        },
+        "properties": {
+          "category": "DHF",
+          "pressure": 990,
+          "date": "2022111606",
+          "id": "2022202307"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            156.8,
+            40.5
+          ]
+        },
+        "properties": {
+          "category": "HF",
+          "pressure": 980,
+          "date": "2022111612",
+          "id": "2022202307"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            160.6,
+            41.4
+          ]
+        },
+        "properties": {
+          "category": "HF",
+          "pressure": 982,
+          "date": "2022111618",
+          "id": "2022202307"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            163.5,
+            42.6
+          ]
+        },
+        "properties": {
+          "category": "S",
+          "pressure": 983,
+          "date": "2022111700",
+          "id": "2022202307"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            149.3,
+            29.7
+          ]
+        },
+        "properties": {
+          "category": "S",
+          "pressure": 993,
+          "date": "2022112118",
+          "id": "2022202308"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            151.5,
+            30.3
+          ]
+        },
+        "properties": {
+          "category": "HF",
+          "pressure": 988,
+          "date": "2022112200",
+          "id": "2022202308"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            154.1,
+            30.6
+          ]
+        },
+        "properties": {
+          "category": "HF",
+          "pressure": 983,
+          "date": "2022112206",
+          "id": "2022202308"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            156.4,
+            31.1
+          ]
+        },
+        "properties": {
+          "category": "S",
+          "pressure": 986,
+          "date": "2022112212",
+          "id": "2022202308"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -163.2,
+            40.2
+          ]
+        },
+        "properties": {
+          "category": "DHF",
+          "pressure": 984,
+          "date": "2022112212",
+          "id": "2022202309"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -159.4,
+            40.9
+          ]
+        },
+        "properties": {
+          "category": "HF",
+          "pressure": 976,
+          "date": "2022112218",
+          "id": "2022202309"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -155.6,
+            42.7
+          ]
+        },
+        "properties": {
+          "category": "HF",
+          "pressure": 976,
+          "date": "2022112300",
+          "id": "2022202309"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -151.5,
+            43.7
+          ]
+        },
+        "properties": {
+          "category": "S",
+          "pressure": 980,
+          "date": "2022112306",
+          "id": "2022202309"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            142.8,
+            36.4
+          ]
+        },
+        "properties": {
+          "category": "DHF",
+          "pressure": 996,
+          "date": "2022112318",
+          "id": "2022202310"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            144.8,
+            36.8
+          ]
+        },
+        "properties": {
+          "category": "HF",
+          "pressure": 989,
+          "date": "2022112400",
+          "id": "2022202310"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            148.7,
+            37.7
+          ]
+        },
+        "properties": {
+          "category": "HF",
+          "pressure": 984,
+          "date": "2022112406",
+          "id": "2022202310"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            152.2,
+            38.8
+          ]
+        },
+        "properties": {
+          "category": "HF",
+          "pressure": 985,
+          "date": "2022112412",
+          "id": "2022202310"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            155.4,
+            40.3
+          ]
+        },
+        "properties": {
+          "category": "HF",
+          "pressure": 979,
+          "date": "2022112418",
+          "id": "2022202310"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            157.7,
+            42.3
+          ]
+        },
+        "properties": {
+          "category": "HF",
+          "pressure": 976,
+          "date": "2022112500",
+          "id": "2022202310"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            159.9,
+            42.9
+          ]
+        },
+        "properties": {
+          "category": "HF",
+          "pressure": 970,
+          "date": "2022112506",
+          "id": "2022202310"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            161.7,
+            44.3
+          ]
+        },
+        "properties": {
+          "category": "HF",
+          "pressure": 968,
+          "date": "2022112512",
+          "id": "2022202310"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            163.3,
+            44.8
+          ]
+        },
+        "properties": {
+          "category": "HF",
+          "pressure": 966,
+          "date": "2022112518",
+          "id": "2022202310"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            165.0,
+            45.4
+          ]
+        },
+        "properties": {
+          "category": "S",
+          "pressure": 970,
+          "date": "2022112600",
+          "id": "2022202310"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -145.9,
+            30.7
+          ]
+        },
+        "properties": {
+          "category": "DHF",
+          "pressure": 1002,
+          "date": "2022112500",
+          "id": "2022202311"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -147.4,
+            30.2
+          ]
+        },
+        "properties": {
+          "category": "HF",
+          "pressure": 996,
+          "date": "2022112506",
+          "id": "2022202311"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -148.7,
+            28.5
+          ]
+        },
+        "properties": {
+          "category": "S",
+          "pressure": 993,
+          "date": "2022112512",
+          "id": "2022202311"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            167.2,
+            33.8
+          ]
+        },
+        "properties": {
+          "category": "DHF",
+          "pressure": 989,
+          "date": "2022112806",
+          "id": "2022202312"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            170.1,
+            34.7
+          ]
+        },
+        "properties": {
+          "category": "HF",
+          "pressure": 983,
+          "date": "2022112812",
+          "id": "2022202312"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            173.2,
+            35.9
+          ]
+        },
+        "properties": {
+          "category": "HF",
+          "pressure": 976,
+          "date": "2022112818",
+          "id": "2022202312"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            175.5,
+            37.1
+          ]
+        },
+        "properties": {
+          "category": "HF",
+          "pressure": 974,
+          "date": "2022112900",
+          "id": "2022202312"
+        }
+      }
+    ]
+  }

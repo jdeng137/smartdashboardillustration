@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>North Pacific Storms 2022</title>
+    <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
+    <link href="https://fonts.googleapis.com/css?family=Titillium+Web|Oswald" rel="stylesheet">
+    <link href="https://api.mapbox.com/mapbox-gl-js/v2.8.1/mapbox-gl.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="css/c3.min.css">
+    <link rel="stylesheet" href="css/style.css" />
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.8.1/mapbox-gl.js"></script>
+    <script src="js/d3.js"></script>
+    <script src="js/c3.min.js"></script>
+</head>
+<body>
+    <div id="info">
+        <div id="title">
+            North Pacific Storms - 2022
+            <span><a href="https://www.linkedin.com/in/jiali-deng-401b16269/" target="_blank"><i class="bi bi-linkedin"></i></a></span>
+            <span><a href="https://github.com/jdeng137" target="_blank"><i class="bi bi-github"></i></a></span>
+            <span id="reset"><a href="#">reset</a></span>
+        </div>
+        <div id="count" class="card">
+            <h5 id="desc"># Storm Points in the displaying region</h5>
+            <p id="storm-count"></p>
+        </div>
+        <div id="storm-chart"></div>
+        <div id="footer">
+            This map displays North Pacific storm tracking data from 2022, including typhoons and high-force storm systems.
+            Each point represents a recorded storm position. Circle size reflects storm intensity based on atmospheric
+            pressure, larger circles indicate lower pressure and stronger storms. Click a bar in the chart to filter
+            by storm category, or click any point on the map to view detailed information.
+        </div>
+    </div>
+    <div id="map"></div>
+    <div id="legend"></div>
+    <script src="js/main.js"></script>
+</body>
+</html>
