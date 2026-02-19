@@ -1,5 +1,6 @@
     // assign the access token
-    mapboxgl.accessToken = 'YOUR_MAPBOX_TOKEN_HERE';
+    mapboxgl.accessToken =
+        'pk.eyJ1IjoiamRlbmcxMzciLCJhIjoiY21oY3BwdGxtMW93bDJsb282bnl6bWl0NSJ9.t19u2LlOUGTPHQ7N82CpkA';
 
     // declare the map object
     let map = new mapboxgl.Map({
