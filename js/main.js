@@ -93,9 +93,7 @@
                     .setLngLat(event.features[0].geometry.coordinates)
                     .setHTML(
                         '<strong>Category:</strong> ' + (categoryLabels[props.category] || props.category) + '<br>' +
-                        '<strong>Pressure:</strong> ' + props.pressure + ' hPa<br>' +
-                        '<strong>Storm ID:</strong> ' + props.id + '<br>' +
-                        '<strong>Date:</strong> ' + props.date
+                        '<strong>Pressure:</strong> ' + props.pressure + ' hPa<br>'
                     )
                     .addTo(map);
             });
