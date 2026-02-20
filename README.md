@@ -18,3 +18,6 @@ This dashboard uses a **proportional symbol map**. Circle size is scaled by atmo
 - Click any storm point to see category, pressure, storm ID, and date
 - Click a bar in the chart to filter the map by storm category
 - Use the reset button to return to the default view
+
+## AI Disclosure
+I used AI as a debugging assistant during the development of this project. Specifically, AI helped me troubleshoot why the C3.js bar chart was not rendering on the dashboard (the issue turned out to be missing js files), and suggested several CSS styling changes for the sidebar and legend design. All code decisions, including the choice of dataset, map type, color palette, and visualization approach, were made and reviewed by me, and I am able to explain the relevant implementation details.
