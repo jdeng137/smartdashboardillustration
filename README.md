@@ -10,7 +10,7 @@ I used AI as a debugging assistant during the development of this project. Speci
 This dashboard uses a **proportional symbol map**. Circle size is scaled by atmospheric pressure — lower pressure indicates a more intense storm, so larger circles represent stronger storms. This map type was chosen because pressure is a continuous numeric variable best represented by scaled symbols, allowing viewers to immediately compare storm intensity across locations at a glance.
 
 ## Data Source
-- North Pacific Storm tracking data (2022), including typhoon and high-force storm system positions, pressure readings, and categories.
+- [North Pacific Storm tracking data (2022)](https://ocean.weather.gov/climo/download.php), including typhoon and high-force storm system positions, pressure readings, and categories.
 
 ## Visualization Components
 1. **Proportional symbol map:** circles scaled by atmospheric pressure
